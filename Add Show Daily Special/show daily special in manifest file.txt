@@ -1,0 +1,8 @@
+ <activity
+            android:name=".ShowDailySpecialActivity"
+            android:label=""
+            android:parentActivityName="com.example.android.dinnerapp.ShowDailySpecialActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainActivity" />
+        </activity>
